@@ -1,0 +1,34 @@
+.textBorder{
+    border: 2px solid #0C56D0;
+    border-radius: 10px;
+}
+.form-label{
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+body{
+    
+    background-image: url(../image/spices-black-background-space-text.jpg);
+    
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.overflow{
+    overflow-y: scroll;
+}
+.trans{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.623);
+}
